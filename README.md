@@ -1,5 +1,5 @@
-Stephanpower Core integration/staging tree
-=====================================
+Stephanpower Core - A Commercial Cryptocurrency
+=================================================
 
 [![Build Status](https://travis-ci.org/stephanpower-project/stephanpower.svg?branch=master)](https://travis-ci.org/stephanpower-project/stephanpower)
 
