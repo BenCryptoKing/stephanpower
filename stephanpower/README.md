@@ -1,2 +1,0 @@
-# stephanpower
-A Commercial Cryptocurrency
